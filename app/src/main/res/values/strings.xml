@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrabajoPractico3</string>
+    <string name="paginas">Páginas: %1$d</string>
+    <string name="anios">Años: %1$d</string>
+    <string name="autor">Autor: %1$s</string>
+    <string name="titulo">Titulo: %1$s</string>
+    <string name="descripcion">Descripción: %1$s</string>
+    <string name="generos">Generos: %1$s</string>
+</resources>
