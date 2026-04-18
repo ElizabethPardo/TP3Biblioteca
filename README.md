@@ -17,7 +17,7 @@ La app está estructurada en tres capas principales:
 * **View**: Activities (`MainActivity`, `DetalleLibroActivity`) que manejan la interfaz de usuario.
 * **ViewModel**: Encargados de la lógica (`MainActivityViewModel`, `DetalleLibroViewModel`) y comunicación con la vista mediante `LiveData`.
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 * Java
 * Android SDK
 * ViewModel
